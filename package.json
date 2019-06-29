@@ -1,0 +1,19 @@
+{
+  "name": "luhn-algorithm",
+  "version": "1.0.0",
+  "description": "Lunah Algorithm Exercice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SebDufresne/luhnAlgorithm.git"
+  },
+  "author": "Sebastien Dufresne",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
