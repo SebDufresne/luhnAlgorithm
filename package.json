@@ -4,7 +4,7 @@
   "description": "Lunah Algorithm Exercice",
   "main": "index.js",
   "scripts": {
-    "test": "node test"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
